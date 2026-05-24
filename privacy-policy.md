@@ -1,77 +1,104 @@
-<h1>Privacy Policy for Dana pharm</h1>
+# Privacy Policy for Dana Med
 
-<p>At Dana pharm, accessible from Dana pharm, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by Dana pharm and how we use it.</p>
+**Last updated:** May 24, 2026
 
-<p>If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us.</p>
+I built and operate the **Dana Med** mobile application (“App”) as a personal project. This Privacy Policy explains what information the App collects, how I use it, how long I keep it, and what choices you have. The App is intended only for customers I authorize; it is not offered to the general public.
 
-<p>This Privacy Policy applies only to our online activities and is valid for visitors to our website with regards to the information that they shared and/or collect in Dana pharm. This policy is not applicable to any information collected offline or via channels other than this website. Our Privacy Policy was created with the help of the <a href="https://www.privacypolicygenerator.info/">Free Privacy Policy Generator</a>.</p>
+If you have questions about this policy, contact me at: **[your email address]**
 
-<h2>Consent</h2>
+## Who I am (data controller)
 
-<p>By using our website, you hereby consent to our Privacy Policy and agree to its terms.</p>
+For the purposes of this App, I am the individual responsible for your personal data (“data controller”). I am not a large organization; Dana Med is software I develop and maintain to help approved business customers place orders.
 
-<h2>Information we collect</h2>
+## Information I collect
 
-<p>The personal information that you are asked to provide, and the reasons why you are asked to provide it, will be made clear to you at the point we ask you to provide your personal information.</p>
-<p>If you contact us directly, we may receive additional information about you such as your name, email address, phone number, the contents of the message and/or attachments you may send us, and any other information you may choose to provide.</p>
-<p>When you register for an Account, we may ask for your contact information, including items such as name, company name, address, email address, and telephone number.</p>
+I may collect the following types of information when you use the App:
 
-<h2>How we use your information</h2>
+- **Account information:** name, email address, phone number, company or business name, and login credentials you use to sign in.
+- **Order information:** products ordered, quantities, order history, delivery or business details needed to fulfill orders.
+- **Technical information:** device type, operating system, app version, and general diagnostic data needed to run and secure the App.
+- **Local data on your device:** limited preferences stored on your device (for example, session or UI settings) using local storage.
+- **Communications:** if you contact me, I receive the content of your message and any contact details you provide.
 
-<p>We use the information we collect in various ways, including to:</p>
+I do not knowingly collect information from children under 13. The App is not directed at children.
 
-<ul>
-<li>Provide, operate, and maintain our website</li>
-<li>Improve, personalize, and expand our website</li>
-<li>Understand and analyze how you use our website</li>
-<li>Develop new products, services, features, and functionality</li>
-<li>Communicate with you, either directly or through one of our partners, including for customer service, to provide you with updates and other information relating to the website, and for marketing and promotional purposes</li>
-<li>Send you emails</li>
-<li>Find and prevent fraud</li>
-</ul>
+## How I use your information
 
-<h2>Log Files</h2>
+I use the information I collect to:
 
-<p>Dana pharm follows a standard procedure of using log files. These files log visitors when they visit websites. All hosting companies do this and a part of hosting services' analytics. The information collected by log files include internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date and time stamp, referring/exit pages, and possibly the number of clicks. These are not linked to any information that is personally identifiable. The purpose of the information is for analyzing trends, administering the site, tracking users' movement on the website, and gathering demographic information.</p>
+- Provide and operate the App (sign-in, order placement, order history)
+- Authenticate authorized users and protect against misuse
+- Process and manage orders you submit through the App
+- Respond to support requests and communicate about your account or orders
+- Improve reliability, fix errors, and maintain security
+- Comply with legal obligations where applicable
 
+I do **not** sell your personal information. The App does not include in-app purchases or paid subscriptions.
 
+## How I store data and third-party services
 
+To run the App, I use trusted third-party services that process data on my behalf, including:
 
-<h2>Advertising Partners Privacy Policies</h2>
+- **Google Firebase** (authentication, cloud database, and related infrastructure)
+- **Algolia** (product search)
 
-<P>You may consult this list to find the Privacy Policy for each of the advertising partners of Dana pharm.</p>
+These providers process data according to their own privacy policies and security practices. I configure them only for purposes needed to operate Dana Med.
 
-<p>Third-party ad servers or ad networks uses technologies like cookies, JavaScript, or Web Beacons that are used in their respective advertisements and links that appear on Dana pharm, which are sent directly to users' browser. They automatically receive your IP address when this occurs. These technologies are used to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on websites that you visit.</p>
+## Data retention — how long I keep your information
 
-<p>Note that Dana pharm has no access to or control over these cookies that are used by third-party advertisers.</p>
+I keep personal information only as long as necessary for the purposes described in this policy, unless a longer period is required by law. Specific retention periods are:
 
-<h2>Third Party Privacy Policies</h2>
+- **Account and profile data** (name, email, phone, company details, login identifiers): kept while your account is active. If you or I close your account, I delete or anonymize this data within **90 days**, except where I must keep certain records longer (see orders below).
+- **Order and transaction records** (orders placed, order details, related business information): kept for **7 years** after the order date for bookkeeping, dispute resolution, and legal compliance, then deleted or anonymized.
+- **Authentication and security logs** (sign-in events, security-related technical logs): kept for up to **12 months**, then deleted.
+- **Support messages** you send to me: kept for up to **24 months** after the conversation is closed, then deleted.
+- **Local data on your device** (preferences in the App): kept until you uninstall the App or clear app data on your device.
+- **Backups:** deleted data may remain in encrypted backups for up to **30 days** before being overwritten.
 
-<p>Dana pharm's Privacy Policy does not apply to other advertisers or websites. Thus, we are advising you to consult the respective Privacy Policies of these third-party ad servers for more detailed information. It may include their practices and instructions about how to opt-out of certain options. </p>
+I may retain information longer if required to comply with law, resolve disputes, or enforce agreements. When retention is no longer needed, I delete or anonymize the data in a reasonable timeframe.
 
-<p>You can choose to disable cookies through your individual browser options. To know more detailed information about cookie management with specific web browsers, it can be found at the browsers' respective websites.</p>
+## How I share information
 
-<h2>CCPA Privacy Rights (Do Not Sell My Personal Information)</h2>
+I do not share your personal information with third parties for their marketing. I may share information only:
 
-<p>Under the CCPA, among other rights, California consumers have the right to:</p>
-<p>Request that a business that collects a consumer's personal data disclose the categories and specific pieces of personal data that a business has collected about consumers.</p>
-<p>Request that a business delete any personal data about the consumer that a business has collected.</p>
-<p>Request that a business that sells a consumer's personal data, not sell the consumer's personal data.</p>
-<p>If you make a request, we have one month to respond to you. If you would like to exercise any of these rights, please contact us.</p>
+- With service providers listed above, strictly to operate the App
+- When required by law, court order, or government request
+- To protect the rights, safety, or security of users, me, or others
+- With your consent, when you ask me to do so
 
-<h2>GDPR Data Protection Rights</h2>
+## Security
 
-<p>We would like to make sure you are fully aware of all of your data protection rights. Every user is entitled to the following:</p>
-<p>The right to access – You have the right to request copies of your personal data. We may charge you a small fee for this service.</p>
-<p>The right to rectification – You have the right to request that we correct any information you believe is inaccurate. You also have the right to request that we complete the information you believe is incomplete.</p>
-<p>The right to erasure – You have the right to request that we erase your personal data, under certain conditions.</p>
-<p>The right to restrict processing – You have the right to request that we restrict the processing of your personal data, under certain conditions.</p>
-<p>The right to object to processing – You have the right to object to our processing of your personal data, under certain conditions.</p>
-<p>The right to data portability – You have the right to request that we transfer the data that we have collected to another organization, or directly to you, under certain conditions.</p>
-<p>If you make a request, we have one month to respond to you. If you would like to exercise any of these rights, please contact us.</p>
+I use reasonable technical and organizational measures to protect your information, including secure sign-in and industry-standard cloud infrastructure. No method of transmission or storage is 100% secure; I cannot guarantee absolute security.
 
-<h2>Children's Information</h2>
+## Your rights and choices
 
-<p>Another part of our priority is adding protection for children while using the internet. We encourage parents and guardians to observe, participate in, and/or monitor and guide their online activity.</p>
+Depending on where you live, you may have the right to:
 
-<p>Dana pharm does not knowingly collect any Personal Identifiable Information from children under the age of 13. If you think that your child provided this kind of information on our website, we strongly encourage you to contact us immediately and we will do our best efforts to promptly remove such information from our records.</p>
+- Access the personal data I hold about you
+- Request correction of inaccurate data
+- Request deletion of your data (subject to legal and order-retention requirements above)
+- Object to or restrict certain processing
+- Request a copy of your data in a portable format, where applicable
+
+To exercise these rights, email me at **ribhy2001@gmail.com**. I will respond within **30 days** (or the time required by applicable law).
+
+## California residents (CCPA)
+
+If you are a California resident, you have the right to know what personal information I collect, request deletion (subject to exceptions), and not be discriminated against for exercising your rights. I do not sell personal information.
+
+## European users (GDPR)
+
+If you are in the European Economic Area or UK, you have the rights described above. My legal basis for processing includes: performing the service you request (orders and account access), legitimate interests (security and improving the App), and compliance with legal obligations. You may lodge a complaint with your local data protection authority.
+
+## International transfers
+
+Your information may be processed in countries other than your own, including where my service providers operate. I take steps to ensure appropriate safeguards where required by law.
+
+## Changes to this policy
+
+I may update this Privacy Policy from time to time. I will post the new version with an updated “Last updated” date. Continued use of the App after changes means you accept the updated policy.
+
+## Contact
+
+**Dana Med** (personal project)  
+Email: **ribhy2001@gmail.com**
